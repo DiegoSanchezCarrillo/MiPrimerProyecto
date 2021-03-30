@@ -1,10 +1,23 @@
+
 # MiPrimerProyecto
-Primer proyecto en Github para escuela de código PILARES
-## ESTO ES UN SUBTITULO
-### NUEVAMENTE 
-#### TAMBIEN ESTO
+Primer proyecto en Github para Escuela de código, PILARES
 
-*HOLA*
-** HOLA A TODOS **
-__HOLA_
+## Esto es un subtítulo
+### Esto también lo es
+### Este también
+#### Título
+##### Título
 
+*Hola*
+**Hola de nuevo**
+_Holaaa_
+
+
+- Lista
+- Elemento 2
+
+1. Elemento 3
+2. Elemento 4
+
+
+Esto es un subtítulo
